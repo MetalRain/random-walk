@@ -10,6 +10,6 @@ Starting from random location
 Walk must be contiguous
 ```
 
-So essentially this is excercise in search and backtracking.
+So essentially this is exercise in search and backtracking.
 
 My solution tries to use least amount of memory, only storing offsets for the walk and some temporary variables.
